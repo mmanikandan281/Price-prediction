@@ -19,14 +19,15 @@ This repository demonstrates a simple implementation of house price prediction u
 ## Installation
 
 1. Clone this repository:
+   ```
    bash
-   https://github.com/sudhisankar/Price_Prediction.git
-   
-2. Navigate to the project directory:
+   https://github.com/mmanikandan281/Price-prediction.git
+   ```
+3. Navigate to the project directory:
    bash
    cd house-price-prediction
    
-3. Install the required Python libraries:
+4. Install the required Python libraries:
    bash
    pip install numpy scikit-learn
    

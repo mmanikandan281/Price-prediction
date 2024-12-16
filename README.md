@@ -19,8 +19,7 @@ This repository demonstrates a simple implementation of house price prediction u
 ## Installation
 
 1. Clone this repository:
-   ```
-   bash
+   ``` 
    https://github.com/mmanikandan281/Price-prediction.git
    ```
 3. Navigate to the project directory:
@@ -30,7 +29,10 @@ This repository demonstrates a simple implementation of house price prediction u
 4. Install the required Python libraries:
    bash
    pip install numpy scikit-learn
-   
+5. Access the Colab
+   ```
+   https://colab.research.google.com/drive/1LS8UN6ieGcM4DyO-_Q5iZZjzxUgK1Tep?usp=sharing
+  
 
 ---
 
